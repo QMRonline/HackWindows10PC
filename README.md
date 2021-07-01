@@ -1,0 +1,2 @@
+# HackWindows10PC
+Hey Folks, in this repo we are going to demonstrate a method through which we can remotely access any windows machine by sending a link. Originally we would use the HTA attack feature provided by the setoolkit tool, by which we could broadcast our payload via a direct link and we would have a meterpreter session when the victim would double click on that payload. If you want to know about HTA attack, you can read from below.
